@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 - 🌟 **Who I Am:** Data enthusiast specializing in data engineering and analytics with a keen interest in leveraging big data for impactful decision-making.
 - 🔭 **Current Projects:** Developing a personalized book recommendation system using Retrieval-Augmented Generation for my data science thesis.
